@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: Contact
 ---
 
-Contact me through email. [[rapter476@outlook.com]](mailto:rapter476@outlook.com)
+Contact me through email. [[Coming Soon]](mailto:)
 
-Checkout my github. [[BorealBlizzard]](https://github.com/BorealBlizzard)
+Checkout my github. [[moussawdia]](https://github.com/moussawdia)
 
-Tweet me! [[JakobRamen]](https://twitter.com/JakobRamen)
+Connect with me on LinkedIn. [[]](https://www.linkedin.com/in/moussa-dia/)
