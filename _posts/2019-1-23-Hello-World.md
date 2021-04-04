@@ -6,7 +6,6 @@ tags:
 - other
 categories:
 - other
-twitter_text: 'Hello World'
 ---
 
 This is a website, who would have guessed. This website is going to be a platform for me to document whatever crap I want to put up on here, so lets see where that gets us. 
