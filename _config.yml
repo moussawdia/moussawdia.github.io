@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
 title: Exploring GIS
+logo: /assets/img/logo.JPG
 description: This is my personal blog where I share my thoughts and opinions on all things GIS.
-logo: C:\Users\mwdia\Documents\GitHub\images\logo.JPG
 show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
