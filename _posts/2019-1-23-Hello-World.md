@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Hello World"
-date: 2019-01-23 10:30:00
-image: '/assets/img/logo.JPG'
-description: 'Welcome world, here I come.'
+title: "Test Post"
+date: 2021-04-04 03:30:00
 tags:
 - other
 categories:
