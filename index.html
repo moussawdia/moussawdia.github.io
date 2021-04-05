@@ -6,13 +6,12 @@ layout: default
 <html>
 <body>
 <h1>Home</h1>
-<p>Hello!</br></br>
-This is my personal website where I share my thoughts and opinions on a variety of topics. I'm working on creating a website to showcase what I do and to learn a few new skills.</p>
+<p></p>
 <h1>Blog Posts</h1>
 <div class="post-list">
     {% for post in site.posts %}
     
-        <a class="post-title" href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>
+        <div><a class="post-title" href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>
         <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
         <p>{{post.excerpt | strip_html}}</p>
     
